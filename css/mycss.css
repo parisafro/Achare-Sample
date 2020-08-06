@@ -1,0 +1,32 @@
+body{
+background-color:gostwhite;
+}
+pcenter{
+text-align:center;
+}
+.pcolor{
+color:blue;
+}
+p [lang="fa"] {
+  color: red;
+  text-align: center;
+  font-weight: 100;
+}
+*{
+text-align:center;
+color:black;    
+}
+.clearfix{
+    overflow: auto;
+}
+.float-right{
+    float: right;
+}
+img{
+    height: 1500;
+    width: 1000;
+
+}
+a{
+text-decoration: none;
+}
